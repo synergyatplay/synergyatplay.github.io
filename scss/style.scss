@@ -71,6 +71,7 @@ body {
     margin-left: auto;
     margin-right: auto;
     margin-top: 2rem;
+    margin-bottom: 0px;
     min-height: 100vh;
     max-width: 80%;
     min-width: 256px;
@@ -105,13 +106,13 @@ img {
 }
 
 footer {
-    bottom: 0;
+    bottom: 0px;
     background-color: black;
     width: 100%;
     a.madebyintangible {
         font-family: 'Courier New', Courier, monospace;
         background-color: black;
-        color: black;
+        color: white;
     }
 }
 
