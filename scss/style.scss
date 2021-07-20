@@ -103,16 +103,20 @@ img {
 
 .bio {
     padding: 1rem;
+    margin: 2rem 0px;
 }
 
 footer {
-    bottom: 0px;
-    background-color: black;
+    margin: auto 0px 0px;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0); //black;
     width: 100%;
     a.madebyintangible {
         font-family: 'Courier New', Courier, monospace;
-        background-color: black;
-        color: white;
+        background-color: rgba(0, 0, 0, 0); //black;
+        color: rgba(0, 0, 0, 0); //white;
+        bottom: 0px;
+        position: absolute;
     }
 }
 
