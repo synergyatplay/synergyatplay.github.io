@@ -78,8 +78,13 @@ body {
     padding: 1rem 2rem 2rem 2rem;
 }
 
-img {
+img.slideshow {
     max-width: 50%;
+}
+
+img.poster {
+    max-width: 98%;
+    margin: 1em auto;
 }
 
 .biolist {
